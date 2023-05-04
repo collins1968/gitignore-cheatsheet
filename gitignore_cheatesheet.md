@@ -1,5 +1,5 @@
-#Rules for .gitignore
-##here are the general rules for matching patterns in .gitignore files:
+# Rules for .gitignore
+## here are the general rules for matching patterns in .gitignore files:
 
 | Pattern  | Explanation/Matches | Examples |
 | -------- | ------------------- | -------- |
